@@ -4,7 +4,7 @@
 ## General info
 #### weather
 
-This is a test weather that is responsive to all screens and devices. No major Technologies was used nor API's, since it is a test responsive weather app that is made with: HTML5, CSS3.
+This is a test weather app that is responsive to all screens and devices. No major Technologies was used nor API's, since it is a test responsive weather app that is made with: HTML5, CSS3.
 
 ## Technologies
 Project is created with:
